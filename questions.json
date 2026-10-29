@@ -1,0 +1,41 @@
+{
+  "heading": "G10Reading for Information(Writing)",
+  "topics": [
+    {
+      "heading": "Reading for Information(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence with the word “Staysails”, meaning: Triangular sails set on stays (ropes or cables) running between masts or from a mast to the bow of a ship.",
+          "text_area": "",
+          "answer": ["As the wind freshened, the crew adjusted the staysails to increase the ship's speed."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence with the word “Bulwarks”, meaning: The raised sides of a ship above the deck that provide protection from waves and help prevent people from falling overboard.",
+          "text_area": "",
+          "answer": ["The sailors clung to the bulwarks while towering waves crashed against the vessel."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence with the word “Forecastle”, meaning: The forward part of a ship's upper deck, traditionally used by sailors as living quarters.",
+          "text_area": "",
+          "answer": ["Standing on the forecastle, the captain scanned the horizon for signs of land."]
+        },
+         
+         
+   {
+  "questionNo": 4,
+  "type": "long",
+  "question": "Write about a meeting you organised (for school, your club, or anything similar) and how it went. It can be <b>factual or descriptive writing</b>. <br>Word Limit - 200-250",
+  "text_area": "",
+  "answer": [""]
+}
+
+      ]
+    }
+  ]
+}
